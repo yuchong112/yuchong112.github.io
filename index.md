@@ -11,8 +11,6 @@ I am currently an artificial intelligence researcher at X-Order lab.
 My current research interests are machine learning for relational data, hyperbolic deep learning and generative models.</b></p>
       <h3>Publications</h3>
       <p><b> a</b></p>
-        
-
     </td>
     <td width="25%">
       <img src="/1574014676743.jpeg" width="100%">      
