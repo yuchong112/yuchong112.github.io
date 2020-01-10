@@ -14,7 +14,7 @@ My current research interests are machine learning for relational data, hyperbol
       <img src="/1574014676743.jpeg" width="100%">      
     </td>
   </tr>
-  <td with="70%">
+  <td with="100%">
       <h2>Publications</h2>
       <p><b>Chong Yu, Xi Chen, Qiwei Xie, et al., Image deformation using modified Moving Least Squares with outlines. IEEE International Conference on Mechatronics and Automation (ICMA), 2017.</b></p>
       <p><b>Chang Shu, Xi Chen, Chong Yu, et al., A Refined Spatial Transformer Network. International Conference on Neural Information Processing (ICONIP), 2018: 151-161.</b></p>
