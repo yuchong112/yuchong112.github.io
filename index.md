@@ -10,7 +10,7 @@
 I am currently an artificial intelligence researcher at X-Order lab. 
 My current research interests are machine learning for relational data, hyperbolic deep learning and generative models.</b></p>
     </td>
-    <td width="25%">, 
+    <td width="25%">
       <img src="/1574014676743.jpeg" width="100%">      
     </td>
   </tr>
