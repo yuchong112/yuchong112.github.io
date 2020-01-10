@@ -5,12 +5,10 @@
       <p><b>Master of Science</b></p>
       <p><b>Machine Learning, Causal Inference, hyperbolic deep learning and GAN</b></p>
       <p><b>Email: 85517065@qq.com</b></p>
-      <tr with="100%">
       <h2>About me</h2>
       <p><b>I received the M.S. degrees degree in mathematics from Hubei  University, China.
 I am currently an artificial intelligence researcher at X-Order lab. 
 My current research interests are machine learning for relational data, hyperbolic deep learning and generative models.</b></p>
-        </tr>
     </td>
     <td width="25%">, 
       <img src="/1574014676743.jpeg" width="100%">      
